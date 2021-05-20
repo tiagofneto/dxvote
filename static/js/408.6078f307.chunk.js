@@ -1,0 +1,2 @@
+(this.webpackJsonpdxvote=this.webpackJsonpdxvote||[]).push([[408],{1168:function(s,e){var t=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",t)}}]);
+//# sourceMappingURL=408.6078f307.chunk.js.map
