@@ -1,0 +1,2 @@
+(this.webpackJsonpdxvote=this.webpackJsonpdxvote||[]).push([[49],{746:function(e,t){Prism.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}}]);
+//# sourceMappingURL=49.8e62546d.chunk.js.map
