@@ -1,2 +1,0 @@
-(this.webpackJsonpdxvote=this.webpackJsonpdxvote||[]).push([[211],{951:function(n,s){Prism.languages.jsonp=Prism.languages.extend("json",{punctuation:/[{}[\]();,.]/}),Prism.languages.insertBefore("jsonp","punctuation",{function:/[_$a-zA-Z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*\()/})}}]);
-//# sourceMappingURL=211.2726d53f.chunk.js.map
