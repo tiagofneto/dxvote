@@ -1,0 +1,30 @@
+(this["webpackJsonpdxvote"] = this["webpackJsonpdxvote"] || []).push([[100],{
+
+/***/ "xwaw":
+/***/ (function(module, exports) {
+
+Prism.languages.ebnf = {
+  'comment': /\(\*[\s\S]*?\*\)/,
+  'string': {
+    pattern: /"[^"\r\n]*"|'[^'\r\n]*'/,
+    greedy: true
+  },
+  'special': {
+    pattern: /\?[^?\r\n]*\?/,
+    greedy: true,
+    alias: 'class-name'
+  },
+  'definition': {
+    pattern: /^(\s*)[a-z]\w*(?:[ \t]+[a-z]\w*)*(?=\s*=)/im,
+    lookbehind: true,
+    alias: ['rule', 'keyword']
+  },
+  'rule': /\b[a-z]\w*(?:[ \t]+[a-z]\w*)*\b/i,
+  'punctuation': /\([:/]|[:/]\)|[.,;()[\]{}]/,
+  'operator': /[-=|*/!]/
+};
+
+/***/ })
+
+}]);
+//# sourceMappingURL=100.c217c060.chunk.js.map
