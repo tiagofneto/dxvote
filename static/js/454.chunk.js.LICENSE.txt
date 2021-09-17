@@ -12,7 +12,7 @@ object-assign
   */
 
 /*!
-  Copyright (c) 2017 Jed Watson.
+  Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
@@ -158,10 +158,6 @@ object-assign
  *     Daniel J. Bernstein, Tanja Lange
  *     https://eprint.iacr.org/2017/293.pdf
  *
- *   [COZ] Scalar Multiplication on Elliptic Curves from Co-Z Arithmetic
- *     R. Goundar, M. Joye, A. Miyaji, M. Rivain, A. Venelli
- *     https://www.matthieurivain.com/files/jcen11b.pdf
- *
  *   [SQUARED] Elligator Squared
  *     Mehdi Tibouchi
  *     https://eprint.iacr.org/2014/043.pdf
@@ -208,10 +204,6 @@ object-assign
  *     Hairong Yi, Yuqing Zhu, and Dongdai Lin
  *     http://www.site.uottawa.ca/~cadams/papers/prepro/paper_19_slides.pdf
  *
- *   [ICART] How to Hash into Elliptic Curves
- *     Thomas Icart
- *     https://eprint.iacr.org/2009/226.pdf
- *
  *   [SSWU1] Efficient Indifferentiable Hashing into Ordinary Elliptic Curves
  *     E. Brier, J. Coron, T. Icart, D. Madore, H. Randriam, M. Tibouchi
  *     https://eprint.iacr.org/2009/340.pdf
@@ -240,14 +232,6 @@ object-assign
  *   [MONT2] Montgomery Curve (wikipedia)
  *     https://en.wikipedia.org/wiki/Montgomery_curve
  *
- *   [SIDE2] Weierstrass Elliptic Curves and Side-Channel Attacks
- *     Eric Brier, Marc Joye
- *     http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.2.273&rep=rep1&type=pdf
- *
- *   [SIDE3] Unified Point Addition Formulae and Side-Channel Attacks
- *     Douglas Stebila, Nicolas Theriault
- *     https://eprint.iacr.org/2005/419.pdf
- *
  *   [MONT3] Montgomery Curves and their arithmetic
  *     C. Costello, B. Smith
  *     https://eprint.iacr.org/2017/212.pdf
@@ -275,10 +259,6 @@ object-assign
  *   [RFC8032] Edwards-Curve Digital Signature Algorithm (EdDSA)
  *     S. Josefsson, SJD AB, I. Liusvaara
  *     https://tools.ietf.org/html/rfc8032
- *
- *   [TIMING] Remote Timing Attacks are Still Practical
- *     B. Brumley, N. Tuveri
- *     https://eprint.iacr.org/2011/232.pdf
  *
  *   [SCHNORR] Schnorr Signatures for secp256k1
  *     Pieter Wuille
@@ -395,12 +375,6 @@ object-assign
  *   https://en.wikipedia.org/wiki/SHA-2
  *   https://tools.ietf.org/html/rfc4634
  *   https://github.com/indutny/hash.js/blob/master/lib/hash/sha/256.js
- */
-
-/*!
- * util.js - encoding utils for javascript
- * Copyright (c) 2018-2019, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/bcrypto
  */
 
 /*!
